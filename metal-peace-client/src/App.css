@@ -3,3 +3,7 @@
 * {
   @apply font-manrope;
 }
+
+.section {
+  @apply max-w-7xl mx-auto px-2.5 md:px-10;
+}

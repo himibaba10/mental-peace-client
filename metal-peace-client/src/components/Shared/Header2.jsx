@@ -10,13 +10,13 @@ import { Link } from "react-router-dom";
 
 const Header2 = () => {
   return (
-    <div className="px-10 py-6 flex justify-between items-center">
+    <div className="section py-6 flex justify-between items-center">
       <Link to="/" className="font-playfair text-3xl font-bold">
         De Gnostische Weg
       </Link>
-      <NavigationMenu className="text-lg">
+      <NavigationMenu>
         <NavigationMenuList>
-          <NavigationMenuItem className="space-x-8">
+          <NavigationMenuItem className="space-x-5">
             <Link to="/" legacyBehavior passHref>
               <NavigationMenuLink>Home</NavigationMenuLink>
             </Link>
@@ -38,7 +38,7 @@ const Header2 = () => {
           </NavigationMenuItem>
         </NavigationMenuList>
       </NavigationMenu>
-      <div className="flex items-center gap-6">
+      <div className="flex items-center gap-3">
         <Facebook size={22} fill="#000000" color="#ffffff" strokeWidth={1} />
         <Youtube size={28} fill="#000000" color="#ffffff" strokeWidth={1} />
         <Instagram size={20} strokeWidth={1} />
