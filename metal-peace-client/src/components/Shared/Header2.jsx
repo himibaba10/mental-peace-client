@@ -2,7 +2,6 @@ import { Button } from "@/components/ui/button";
 import {
   NavigationMenu,
   NavigationMenuItem,
-  NavigationMenuLink,
   NavigationMenuList,
 } from "@/components/ui/navigation-menu";
 import { Calendar, Facebook, Instagram, Youtube } from "lucide-react";
@@ -17,24 +16,12 @@ const Header2 = () => {
       <NavigationMenu>
         <NavigationMenuList>
           <NavigationMenuItem className="space-x-5">
-            <Link to="/" legacyBehavior passHref>
-              <NavigationMenuLink>Home</NavigationMenuLink>
-            </Link>
-            <Link to="/sessions" legacyBehavior passHref>
-              <NavigationMenuLink>Sessions</NavigationMenuLink>
-            </Link>
-            <Link to="/client-experiences" legacyBehavior passHref>
-              <NavigationMenuLink>Client experiences</NavigationMenuLink>
-            </Link>
-            <Link to="/about" legacyBehavior passHref>
-              <NavigationMenuLink>About Us</NavigationMenuLink>
-            </Link>
-            <Link to="/blogs" legacyBehavior passHref>
-              <NavigationMenuLink>Blogs</NavigationMenuLink>
-            </Link>
-            <Link to="/contact" legacyBehavior passHref>
-              <NavigationMenuLink>Contact Us</NavigationMenuLink>
-            </Link>
+            <Link to="/">Home</Link>
+            <Link to="/sessions">Sessions</Link>
+            <Link to="/client-experiences">Client experiences</Link>
+            <Link to="/about">About Us</Link>
+            <Link to="/blogs">Blogs</Link>
+            <Link to="/contact">Contact Us</Link>
           </NavigationMenuItem>
         </NavigationMenuList>
       </NavigationMenu>

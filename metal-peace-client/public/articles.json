@@ -1,0 +1,17 @@
+[
+  {
+    "_id": "1",
+    "title": "Introduction to Programming",
+    "description": "Embark on a comprehensive journey into the world of programming. This course covers fundamental concepts such as variables, control structures, and functions. Gain a solid understanding of how to write clean and efficient code, laying the foundation for advanced programming skills."
+  },
+  {
+    "_id": "2",
+    "title": "Web Development Fundamentals",
+    "description": "Delve into the exciting realm of web development. Master the essentials of front-end technologies like HTML for structuring, CSS for styling, and JavaScript for dynamic behavior. Explore responsive design principles and learn how to create visually appealing and interactive websites."
+  },
+  {
+    "_id": "3",
+    "title": "Data Science with Python",
+    "description": "Immerse yourself in the powerful field of data science using Python. Acquire hands-on experience with data manipulation and analysis using popular libraries such as NumPy and Pandas. Uncover the secrets of machine learning and statistical modeling, empowering you to extract valuable insights from raw data."
+  }
+]

@@ -1,15 +1,17 @@
+import Paragraph from "@/src/utils/Paragraph";
+import Heading from "../Shared/Heading";
+
 const About = () => {
   return (
     <div className="section !max-w-4xl my-20 flex items-center">
       <div className="w-1/6 h-80 bg-secondary"></div>
       <div className="bg-secondary p-16 w-5/6">
-        <span className="text-base text-primary font-semibold tracking-widest uppercase">
-          Welcome to The Peace Of Mind Way
-        </span>
-        <h2 className="text-black font-playfair text-5xl font-bold pt-3 pb-8 leading-tight">
-          TRANSFORMING ON AN ENERGETIC LEVEL
-        </h2>
-        <p className="text-lg leading-8">
+        <Heading
+          title="TRANSFORMING ON AN ENERGETIC LEVEL"
+          subTitle="Welcome to The Peace Of Mind Way"
+          align="left"
+        />
+        <Paragraph color="text-[#141414]">
           Do you feel like your time has come to let go and grow? A
           transformation process is intense: our soul is ready for inner growth,
           but our &quot;earthly self&quot; often finds this exciting and
@@ -27,7 +29,7 @@ const About = () => {
           The universe allows you to experience your strength and inner light.
           This way of working has given me a deep respect for the wonders of the
           universe.
-        </p>
+        </Paragraph>
       </div>
     </div>
   );

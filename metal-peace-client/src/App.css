@@ -4,6 +4,15 @@
   @apply font-manrope;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  @apply font-playfair;
+}
+
 .section {
   @apply max-w-7xl mx-auto px-2.5 md:px-10;
 }
