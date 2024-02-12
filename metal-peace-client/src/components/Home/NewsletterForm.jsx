@@ -21,7 +21,7 @@ const NewsletterForm = () => {
   });
 
   return (
-    <div className="bg-white p-20">
+    <div className="bg-white p-20 drop-shadow-2xl">
       <form
         className="flex flex-col gap-3 text-primary"
         onSubmit={formik.handleSubmit}

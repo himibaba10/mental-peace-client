@@ -11,7 +11,7 @@ const Header2 = () => {
   return (
     <div className="section py-6 flex justify-between items-center">
       <Link to="/" className="font-playfair text-3xl font-bold">
-        De Gnostische Weg
+        Mental Peace
       </Link>
       <NavigationMenu>
         <NavigationMenuList>

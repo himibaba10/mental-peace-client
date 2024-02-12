@@ -8,7 +8,7 @@ const DoubleImg = ({ img, bgColor = "bg-secondary", width = "w-5/6" }) => {
           alt="Image of girl throwing sand"
         />
         <div
-          className={`${width} absolute -top-8 left-8 w-5/6 h-full ${bgColor}`}
+          className={`${width} absolute -top-8 left-8 h-full ${bgColor}`}
         ></div>
       </div>
     </div>
