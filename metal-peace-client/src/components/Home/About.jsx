@@ -18,12 +18,12 @@ const About = () => {
           resists.
           <br />
           <br />
-          In Gnostic sessions the universe lovingly guides you in this process.
-          You experience at soul level where the blockages are located and when
-          they originated. After these insights you are ready to let them go.
-          You come into contact with a greater reality in a way you have never
-          experienced before. You will receive the information that you can
-          handle and that is important at the moment.
+          In Mental Peace sessions the universe lovingly guides you in this
+          process. You experience at soul level where the blockages are located
+          and when they originated. After these insights you are ready to let
+          them go. You come into contact with a greater reality in a way you
+          have never experienced before. You will receive the information that
+          you can handle and that is important at the moment.
           <br />
           <br />
           The universe allows you to experience your strength and inner light.

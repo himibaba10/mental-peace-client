@@ -1,0 +1,74 @@
+[
+  {
+    "_id": 1,
+    "name": "DR. Shaun Murphy",
+    "img": "../src/assets/doctor.jpg",
+    "type": "Psychiatrist",
+    "availability": {
+      "from": "Sunday",
+      "to": "Friday",
+      "time": "10:00AM - 8:30PM",
+      "available": true
+    }
+  },
+  {
+    "_id": 2,
+    "name": "DR. Shaun Murphy",
+    "img": "../src/assets/doctor.jpg",
+    "type": "Psychiatrist",
+    "availability": {
+      "from": "Sunday",
+      "to": "Friday",
+      "time": "10:00AM - 8:30PM",
+      "available": true
+    }
+  },
+  {
+    "_id": 3,
+    "name": "DR. Shaun Murphy",
+    "img": "../src/assets/doctor.jpg",
+    "type": "Psychiatrist",
+    "availability": {
+      "from": "Sunday",
+      "to": "Friday",
+      "time": "10:00AM - 8:30PM",
+      "available": true
+    }
+  },
+  {
+    "_id": 4,
+    "name": "DR. Ferdous Ahmed",
+    "img": "../src/assets/doctor.jpg",
+    "type": "Psychiatrist",
+    "availability": {
+      "from": "Sunday",
+      "to": "Friday",
+      "time": "10:00AM - 8:30PM",
+      "available": true
+    }
+  },
+  {
+    "_id": 5,
+    "name": "DR. Shaun Murphy",
+    "img": "../src/assets/doctor.jpg",
+    "type": "Psychiatrist",
+    "availability": {
+      "from": "Sunday",
+      "to": "Friday",
+      "time": "10:00AM - 8:30PM",
+      "available": true
+    }
+  },
+  {
+    "_id": 6,
+    "name": "DR. Shaun Murphy",
+    "img": "../src/assets/doctor.jpg",
+    "type": "Psychiatrist",
+    "availability": {
+      "from": "Sunday",
+      "to": "Friday",
+      "time": "10:00AM - 8:30PM",
+      "available": true
+    }
+  }
+]

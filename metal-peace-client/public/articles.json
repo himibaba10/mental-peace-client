@@ -2,16 +2,64 @@
   {
     "_id": "1",
     "title": "Introduction to Programming",
-    "description": "Embark on a comprehensive journey into the world of programming. This course covers fundamental concepts such as variables, control structures, and functions. Gain a solid understanding of how to write clean and efficient code, laying the foundation for advanced programming skills."
+    "image": "../src/assets/articleImg.png",
+    "description": "Embark on a comprehensive journey into the world of programming. This course covers fundamental concepts such as variables, control structures, and functions. Gain a solid understanding of how to write clean and efficient code, laying the foundation for advanced programming skills.",
+    "info": { "author": "SUSANNE EIJSEN", "datePosted": "2 JAN 2022" }
   },
   {
     "_id": "2",
     "title": "Web Development Fundamentals",
-    "description": "Delve into the exciting realm of web development. Master the essentials of front-end technologies like HTML for structuring, CSS for styling, and JavaScript for dynamic behavior. Explore responsive design principles and learn how to create visually appealing and interactive websites."
+    "image": "../src/assets/articleImg.png",
+    "description": "Delve into the exciting realm of web development. Master the essentials of front-end technologies like HTML for structuring, CSS for styling, and JavaScript for dynamic behavior. Explore responsive design principles and learn how to create visually appealing and interactive websites.",
+    "info": { "author": "SUSANNE EIJSEN", "datePosted": "2 JAN 2022" }
   },
   {
     "_id": "3",
     "title": "Data Science with Python",
-    "description": "Immerse yourself in the powerful field of data science using Python. Acquire hands-on experience with data manipulation and analysis using popular libraries such as NumPy and Pandas. Uncover the secrets of machine learning and statistical modeling, empowering you to extract valuable insights from raw data."
+    "image": "../src/assets/articleImg.png",
+    "description": "Immerse yourself in the powerful field of data science using Python. Acquire hands-on experience with data manipulation and analysis using popular libraries such as NumPy and Pandas. Uncover the secrets of machine learning and statistical modeling, empowering you to extract valuable insights from raw data.",
+    "info": { "author": "SUSANNE EIJSEN", "datePosted": "2 JAN 2022" }
+  },
+  {
+    "_id": "4",
+    "title": "Data Science with Python",
+    "image": "../src/assets/articleImg.png",
+    "description": "Immerse yourself in the powerful field of data science using Python. Acquire hands-on experience with data manipulation and analysis using popular libraries such as NumPy and Pandas. Uncover the secrets of machine learning and statistical modeling, empowering you to extract valuable insights from raw data.",
+    "info": { "author": "SUSANNE EIJSEN", "datePosted": "2 JAN 2022" }
+  },
+  {
+    "_id": "5",
+    "title": "Data Science with Python",
+    "image": "../src/assets/articleImg.png",
+    "description": "Immerse yourself in the powerful field of data science using Python. Acquire hands-on experience with data manipulation and analysis using popular libraries such as NumPy and Pandas. Uncover the secrets of machine learning and statistical modeling, empowering you to extract valuable insights from raw data.",
+    "info": { "author": "SUSANNE EIJSEN", "datePosted": "2 JAN 2022" }
+  },
+  {
+    "_id": "6",
+    "title": "Data Science with Python",
+    "image": "../src/assets/articleImg.png",
+    "description": "Immerse yourself in the powerful field of data science using Python. Acquire hands-on experience with data manipulation and analysis using popular libraries such as NumPy and Pandas. Uncover the secrets of machine learning and statistical modeling, empowering you to extract valuable insights from raw data.",
+    "info": { "author": "SUSANNE EIJSEN", "datePosted": "2 JAN 2022" }
+  },
+  {
+    "_id": "7",
+    "title": "Data Science with Python",
+    "image": "../src/assets/articleImg.png",
+    "description": "Immerse yourself in the powerful field of data science using Python. Acquire hands-on experience with data manipulation and analysis using popular libraries such as NumPy and Pandas. Uncover the secrets of machine learning and statistical modeling, empowering you to extract valuable insights from raw data.",
+    "info": { "author": "SUSANNE EIJSEN", "datePosted": "2 JAN 2022" }
+  },
+  {
+    "_id": "8",
+    "title": "Data Science with Python",
+    "image": "../src/assets/articleImg.png",
+    "description": "Immerse yourself in the powerful field of data science using Python. Acquire hands-on experience with data manipulation and analysis using popular libraries such as NumPy and Pandas. Uncover the secrets of machine learning and statistical modeling, empowering you to extract valuable insights from raw data.",
+    "info": { "author": "SUSANNE EIJSEN", "datePosted": "2 JAN 2022" }
+  },
+  {
+    "_id": "9",
+    "title": "Data Science with Python",
+    "image": "../src/assets/articleImg.png",
+    "description": "Immerse yourself in the powerful field of data science using Python. Acquire hands-on experience with data manipulation and analysis using popular libraries such as NumPy and Pandas. Uncover the secrets of machine learning and statistical modeling, empowering you to extract valuable insights from raw data.",
+    "info": { "author": "SUSANNE EIJSEN", "datePosted": "2 JAN 2022" }
   }
 ]

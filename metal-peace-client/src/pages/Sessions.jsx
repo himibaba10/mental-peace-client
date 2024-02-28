@@ -1,8 +1,18 @@
+import PopularDoctors from "../components/Sessions/PopularDoctors";
+import SessionContact from "../components/Sessions/SessionContact";
+import SessionInfo from "../components/Sessions/SessionInfo";
+import SessionInsights from "../components/Sessions/SessionInsights";
+import SessionsBottomInfo from "../components/Sessions/SessionsBottomInfo";
+
 const Sessions = () => {
   return (
-    <div>
-      <h1>The sessions</h1>
-    </div>
+    <>
+      <SessionInfo />
+      <SessionInsights />
+      <PopularDoctors />
+      <SessionContact />
+      <SessionsBottomInfo />
+    </>
   );
 };
 
