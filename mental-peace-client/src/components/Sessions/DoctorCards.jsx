@@ -13,7 +13,7 @@ const DoctorCards = ({ limit }) => {
   }
 
   return (
-    <div className="mt-5 grid gap-7 grid-cols-1 sm:grid-cols-2 md:grid-cols-3">
+    <div className="my-10 grid gap-7 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 section">
       {doctors.slice(0, limit).map((doctor) => (
         <DoctorCard key={doctor._id} doctor={doctor} />
       ))}
