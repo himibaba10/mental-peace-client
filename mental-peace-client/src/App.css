@@ -16,3 +16,7 @@ h6 {
 .section {
   @apply max-w-7xl mx-auto px-2.5 md:px-10;
 }
+
+.floating-whatsapp img {
+  @apply object-cover;
+}
